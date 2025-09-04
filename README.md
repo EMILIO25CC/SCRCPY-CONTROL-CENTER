@@ -35,13 +35,15 @@ Scrcpy Control Center es una herramienta diseñada para simplificar el uso de Sc
 
 ## Archivos disponibles
 
-### 1. Versión Portable
-Descarga directa sin necesidad de instalación:  
-[Descargar Portable](https://github.com/tuusuario/tu-repo/raw/main/ScrcpyControlCenter_Portable.exe)
 
 ### 2. Versión Instalador
 Crea accesos directos y se integra al sistema:  
-[Descargar Instalador](https://github.com/tuusuario/tu-repo/raw/main/ScrcpyControlCenter_Installer.exe)
+[Descargar Instalador](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER/releases/download/v2.0/Instalador_SCRCPY_Control_Center_v2.0.zip)
+
+
+### 1. Versión Portable
+Descarga directa sin necesidad de instalación:  
+[Descargar Portable](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER/releases/download/v2.0/Portable_SCRCPY_Control_Center_v2.0.zip) 
 
 ---
 
