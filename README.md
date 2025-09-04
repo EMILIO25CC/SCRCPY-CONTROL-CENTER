@@ -1,6 +1,6 @@
 # Scrcpy Control Center
 
-[**Espacio para imagen de presentación del programa**]
+[presentacionadb.png]
 
 Scrcpy Control Center es una herramienta diseñada para simplificar el uso de Scrcpy, permitiendo controlar dispositivos Android desde tu computadora de manera intuitiva, sin necesidad de usar la línea de comandos. El software soporta conexión vía USB y Wi-Fi, ofreciendo una interfaz gráfica que permite realizar acciones de manera rápida y segura.
 
