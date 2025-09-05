@@ -19,6 +19,10 @@ Una interfaz gráfica moderna para controlar dispositivos Android desde tu PC si
 - **Tema Claro:** ![Tema claro](./modo_claro.png)
 - **Tema Oscuro:** ![Tema oscuro](./modo_oscuro.png)
 
+## Funcionamiento en Acción
+![Demostración múltiples dispositivos](./transmisiones.png)
+*Control simultáneo de múltiples dispositivos Android via USB y WiFi*
+
 ## Descargas
 
 ### Versión Portable
