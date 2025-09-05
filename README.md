@@ -2,7 +2,7 @@
 
 ![Vista previa](./presentacionadb.png)
 
-Una interfaz gráfica moderna para controlar dispositivos Android desde tu PC sin usar línea de comandos. Soporta conexiones USB y WiFi con detección automática de dispositivos.
+Una interfaz gráfica moderna que integra funciones automatizadas para controlar dispositivos Android desde tu PC sin necesidad de usar la línea de comandos. Soporta conexiones mediante USB y Wi-Fi con detección automática de dispositivos.
 
 ## Características Principales
 
