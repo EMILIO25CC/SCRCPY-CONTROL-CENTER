@@ -1,4 +1,4 @@
-# SCRCPY Control Center v2.0
+# SCRCPY CONTROL CENTER V2.0
 
 ![Vista previa](./presentacionadb.png)
 
