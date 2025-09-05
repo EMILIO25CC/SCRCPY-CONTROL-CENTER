@@ -6,8 +6,8 @@ Scrcpy Control Center es una herramienta diseñada para simplificar el uso de Sc
 
 ## Temas del programa
 
-- Tema Claro: [Espacio para capturas o descripción del tema claro]  
-- Tema Oscuro: [Espacio para capturas o descripción del tema oscuro]  
+- Tema Claro: (./modo_claro.png)
+- Tema Oscuro:(./modo_oscuro.png)
 
 ## Funcionalidades principales
 
