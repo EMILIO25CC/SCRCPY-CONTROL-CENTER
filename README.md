@@ -104,7 +104,11 @@ Al ejecutar por primera vez, Windows puede mostrar una advertencia de seguridad:
 
 ![SmartScreen](/seguridad.png)
 
-Esto es normal para software nuevo sin firma digital. El programa ha sido probado y es seguro.
+Esto es completamente normal. La advertencia aparece porque el software es nuevo, no está firmado digitalmente y todavía no cuenta con reputación en Microsoft.
+Esto no significa que el archivo sea peligroso.
+
+La notificación de Windows se debe únicamente a que es la primera vez que este archivo se distribuye en internet.
+El programa ha sido probado durante su desarrollo y no presentó inconvenientes en los diferentes entornos en los que fue evaluado.
 
 **Para continuar:**
 1. Clic en "Más información"
