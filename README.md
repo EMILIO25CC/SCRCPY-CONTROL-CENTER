@@ -40,6 +40,8 @@ Ideal si no quieres modificar tu sistema o planeas usarlo en varias computadoras
 
 [**Descargar Portable**](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER/releases/download/v2.0/Portable_SCRCPY_Control_Center_v2.0.zip)
 
+---
+
 ## Configuración Rápida
 
 ### 1. Preparar tu Android
