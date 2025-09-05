@@ -21,7 +21,7 @@ Una interfaz gráfica moderna para controlar dispositivos Android desde tu PC si
 
 ## Descargas
 
-### Versión Portable (Recomendada)
+### Versión Portable
 No requiere instalación. Descarga y ejecuta directamente.
 
 [**Descargar Portable**](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER/releases/download/v2.0/Portable_SCRCPY_Control_Center_v2.0.zip)
@@ -43,8 +43,25 @@ Se integra al sistema y crea accesos directos.
 **Habilitar Depuración USB:**
 1. Opciones de desarrollador → Depuración USB
 2. Activar el interruptor
-3. Al conectar por primera vez, acepta la autorización de la PC
+3. Confirma en la ventana emergente que aparece
+4. Al conectar por primera vez, acepta la autorización de la PC
 
+**Habilitar Depuración Inalámbrica:**
+1. En Opciones de desarrollador, busca "Depuración inalámbrica" o "Wireless debugging"
+2. Activa el interruptor
+3. Asegúrate de que el dispositivo y la PC estén en la misma red WiFi
+
+
+**Opciones adicionales según el dispositivo:**
+- **"Permitir depuración ADB en modo solo carga"** - Actívala si aparece en tu dispositivo - (Huawei/Honor)
+- **"Depuración USB (Configuración de seguridad)"** - Algunos Samsung y Xiaomi requieren esto
+- **"Instalar vía USB"** - Puede ser necesaria en algunos modelos
+- **"Verificación de aplicaciones por USB"** - Se recomienda desactivarla para mejor compatibilidad
+
+**Ubicaciones alternativas:**
+- En algunos dispositivos puede aparecer como "Opciones para desarrolladores"
+- En dispositivos Huawei/Honor: Configuración → Sistema y actualizaciones → Opciones de desarrollador
+- En dispositivos Samsung: puede estar dentro de "Configuración avanzada"
 ### 2. Usar la Aplicación
 
 1. **Conecta tu Android** por cable USB
