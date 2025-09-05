@@ -26,12 +26,17 @@ Una interfaz gráfica moderna que integra funciones automatizadas para controlar
 ## Descargas
 
 ### Versión Portable
-No requiere instalación. Descarga y ejecuta directamente.
+No requiere instalación.  
+Se puede ejecutar directamente desde cualquier carpeta o incluso un USB.  
+Ideal si no quieres modificar tu sistema o planeas usarlo en varias computadoras.  
 
 [**Descargar Portable**](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER/releases/download/v2.0/Portable_SCRCPY_Control_Center_v2.0.zip)
 
 ### Versión Instalador
-Se integra al sistema y crea accesos directos.
+Se integra al sistema operativo.  
+Crea accesos directos en el menú inicio y/o escritorio.  
+Se puede desinstalar fácilmente desde *Agregar o quitar programas*.  
+Recomendado si planeas usarlo frecuentemente en la misma PC.  
 
 [**Descargar Instalador**](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER/releases/download/v2.0/Instalador_SCRCPY_Control_Center_v2.0.zip)
 
