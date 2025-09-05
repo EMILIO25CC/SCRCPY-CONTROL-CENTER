@@ -60,6 +60,24 @@ Descarga directa sin necesidad de instalación:
 
 ---
 
+### Nota sobre Windows SmartScreen
+
+Al ejecutar por primera vez SCRCPY Control Center, es posible que Windows muestre la siguiente advertencia:
+
+![SmartScreen](/seguridad.png)
+
+Esto ocurre porque el programa **no está firmado digitalmente** y es una versión nueva sin reputación en Microsoft.  
+No significa que el archivo sea peligroso.  
+
+La advertencia aparece simplemente porque es la primera vez que este archivo circula en internet.  
+El software ha sido probado en sus fases de desarrollo y no presentó problemas en los distintos entornos en los que se utilizó.  
+
+Para continuar con la instalación o ejecución:  
+1. Hacer clic en **Más información**.  
+2. Seleccionar **Ejecutar de todas formas**.
+
+
+
 ## Licencia y terceros
 
 Este proyecto integra los binarios de **Scrcpy** y **ADB**, los cuales son software libre distribuidos bajo **Licencia Apache 2.0**.  
