@@ -142,6 +142,7 @@ Para información detallada sobre todas las funcionalidades, configuraciones ava
 - **YouTube:** [DeSofCC](https://www.youtube.com/@DeSofCC)
 
 ## Licencia
+Copyright © 2025 Carlos Cabrera.
 
 Este proyecto se distribuye bajo Licencia Apache 2.0 e integra los binarios de SCRCPY y ADB, también bajo Apache 2.0.
 [Licencia Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
