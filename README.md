@@ -26,6 +26,8 @@ Este proyecto ha sido construido bajo ética profesional y seguridad. Sin embarg
 #### 🔍 Detección de Windows Defender - Falso Positivo Confirmado  
 ![Detección Windows Defender](./deteccion_windows_defeder.png)
 
+¿Qué es WinRing0x64.sys?
+WinRing0x64.sys es un driver legítimo utilizado por múltiples aplicaciones para acceso de bajo nivel al hardware. Algunas herramientas de desarrollo lo incluyen para funcionalidades específicas. Los antivirus ocasionalmente lo marcan como sospechoso debido a su naturaleza de acceso de bajo nivel al sistema.
 ----
 
 #### 📧 Reporte Oficial Enviado a Microsoft
