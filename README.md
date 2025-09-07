@@ -26,9 +26,14 @@ Este proyecto ha sido construido bajo estrictos estándares de ética profesiona
 #### 📧 Reporte Oficial Enviado a Microsoft
 ![Reporte a Microsoft](./reporte_seguridad_microsoft.png)
 
----
 #### 🔍 Detección de Windows Defender - Falso Positivo Confirmado  
 ![Detección Windows Defender](./deteccion_windows_defeder.png)
+
+----
+
+#### 📧 Reporte Oficial Enviado a Microsoft
+![Reporte a Microsoft](./reporte_seguridad_microsoft.png)
+
 
 ### Verificación Adicional:
 - **Archivo supuestamente infectado:** `C:\WINDOWS\system32\Drivers\WinRing0x64.sys`
