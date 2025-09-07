@@ -6,7 +6,7 @@ Una interfaz gráfica moderna que integra funciones automatizadas para controlar
 
 ## 🔒 Seguridad y Confianza
 
-Este proyecto ha sido construido bajo estrictos estándares de ética profesional y seguridad. Sin embargo, algunas versiones portables de **SCRCPY Control Center** fueron detectadas erróneamente por ciertos antivirus como *Trojan:Win32/Vigorf.A*.
+Este proyecto ha sido construido bajo ética profesional y seguridad. Sin embargo, algunas versiones portables de **SCRCPY Control Center** fueron detectadas erróneamente por ciertos antivirus como *Trojan:Win32/Vigorf.A*.
 
 ✅ **Esto es un falso positivo confirmado**.
 
@@ -22,9 +22,6 @@ Este proyecto ha sido construido bajo estrictos estándares de ética profesiona
 
 #### ⚠️ Detección Errónea de la Versión Portable
 ![Falso positivo portable](./falso_positivo_portable.png)
-
-#### 📧 Reporte Oficial Enviado a Microsoft
-![Reporte a Microsoft](./reporte_seguridad_microsoft.png)
 
 #### 🔍 Detección de Windows Defender - Falso Positivo Confirmado  
 ![Detección Windows Defender](./deteccion_windows_defeder.png)
@@ -42,6 +39,7 @@ Este proyecto ha sido construido bajo estrictos estándares de ética profesiona
 - **Fecha de verificación:** 6/09/2025
 
 **Recomendación:** Si tu antivirus genera alertas, usa preferentemente la **versión instalador** que está completamente limpia, o agrega el archivo a la lista de exclusiones de tu antivirus.
+Esta información se actualizará en cuanto haya respuesta de Microsoft.
 
 ## Características Principales
 
