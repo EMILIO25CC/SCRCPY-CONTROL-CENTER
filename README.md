@@ -4,45 +4,15 @@
 
 Una interfaz gráfica moderna que integra funciones automatizadas para controlar dispositivos Android desde tu PC sin necesidad de usar la línea de comandos. Soporta conexiones mediante USB y Wi-Fi con detección automática de dispositivos.
 
-## 🔒 Seguridad y Confianza
+### 🔒 Seguridad y Confianza
 
-Este proyecto ha sido construido bajo ética profesional y seguridad. Sin embargo, algunas versiones portables de **SCRCPY Control Center** fueron detectadas erróneamente por ciertos antivirus como *Trojan:Win32/Vigorf.A*.
+Este proyecto ha sido desarrollado bajo principios de ética profesional y seguridad. Sin embargo, la versión portable de SCRCPY Control Center fue detectada erróneamente por algunos antivirus como Trojan:Win32/Vigorf.A.
 
-✅ **Esto es un falso positivo confirmado**.
+Te invito a leer el apartado de [**SEGURIDAD**](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER/blob/main/SECURITY.md)
+ para comprender en mayor detalle este incidente, el cual suele ocurrir con software nuevo.
+✅ Esto es un falso positivo confirmado.
 
-### Evidencia de Seguridad:
-- **Instalador verificado:** [VirusTotal - 0/71 detecciones](https://www.virustotal.com/gui/file/37150c887470ac88ed5f0a97963aa833e89bc3cadf2e2aa7cc64ac9d41e8c217/detection) ✅
-- **Versión portable:** [VirusTotal - Falso positivo identificado](https://www.virustotal.com/gui/file/90732ac1341c4f997321c8877a236b11ff87f80ab73d93e825aecfa02b487e7f/detection) ⚠️
-- Hemos reportado oficialmente este falso positivo a Microsoft para actualización de sus firmas antivirus
-
-### Transparencia Total - Evidencias Visuales:
-
-#### 📋 Análisis VirusTotal del Instalador - Estado Limpio
-![Instalador seguro](./captura_segura_instalador.png)
-
-#### ⚠️ Detección Errónea de la Versión Portable
-![Falso positivo portable](./falso_positivo_portable.png)
-
-#### 🔍 Detección de Windows Defender - Falso Positivo Confirmado  
-![Detección Windows Defender](./deteccion_windows_defeder.png)
-
-¿Qué es WinRing0x64.sys?
-WinRing0x64.sys es un driver legítimo utilizado por múltiples aplicaciones para acceso de bajo nivel al hardware. Algunas herramientas de desarrollo lo incluyen para funcionalidades específicas. Los antivirus ocasionalmente lo marcan como sospechoso debido a su naturaleza de acceso de bajo nivel al sistema.
-----
-
-#### 📧 Reporte Oficial Enviado a Microsoft
-![Reporte a Microsoft](./reporte_seguridad_microsoft.png)
-
-
-### Verificación Adicional:
-- **Archivo supuestamente infectado:** `C:\WINDOWS\system32\Drivers\WinRing0x64.sys`
-- **Estado real:** No encontrado en el sistema ✅
-- **Conclusión:** Detección basada en falsos patrones, no en malware real
-- **Fecha de verificación:** 6/09/2025
-
-**Recomendación:** Si tu antivirus genera alertas, usa preferentemente la **versión instalador** que está completamente limpia, o agrega el archivo a la lista de exclusiones de tu antivirus.
-Esta información se actualizará en cuanto haya respuesta de Microsoft.
-
+---
 ## Características Principales
 
 - **Control remoto completo** de dispositivos Android desde PC
