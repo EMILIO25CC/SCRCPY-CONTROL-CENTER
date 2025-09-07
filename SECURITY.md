@@ -7,7 +7,7 @@
 ## Análisis de Seguridad
 
 ### Instalador - Estado Completamente Limpio
-- **Análisis VirusTotal:** [0/71 detecciones](https://www.virustotal.com/gui/file/37150c887470ac88ed5f0a97963aa833e89bc3cadf2e2aa7cc64ac9d41e8c217/detection) ✅
+- **Análisis VirusTotal:** [0/72 detecciones](https://www.virustotal.com/gui/file/37150c887470ac88ed5f0a97963aa833e89bc3cadf2e2aa7cc64ac9d41e8c217/detection) ✅
 - **Estado:** Verificado como completamente seguro
 - **Recomendación:** Versión recomendada para todos los usuarios
 
