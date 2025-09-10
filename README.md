@@ -6,11 +6,12 @@ Una interfaz gráfica moderna que integra funciones automatizadas para controlar
 
 ### 🔒 Seguridad y Confianza
 
-Este proyecto ha sido desarrollado bajo principios de ética profesional y seguridad. Sin embargo, la versión portable de SCRCPY Control Center fue detectada erróneamente por algunos antivirus como Trojan:Win32/Vigorf.A.
+Este proyecto ha sido desarrollado bajo principios de ética profesional y seguridad. **Microsoft Security Intelligence confirmó oficialmente que las detecciones previas eran falsos positivos** (Caso resuelto: 21361229-51d6-461a-98c6-b88b67c474a3).
 
-Te invito a leer el apartado de [**SEGURIDAD**](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER/blob/main/SECURITY.md)
- para comprender en mayor detalle este incidente, el cual suele ocurrir con software nuevo.
-✅ Esto es un falso positivo confirmado.
+**✅ Estado actual:** Software oficialmente validado como seguro por Microsoft  
+**🛡️ Recomendación:** Uso sin restricciones para ambas versiones
+
+Para evidencias completas y detalles técnicos, revisa [**SEGURIDAD**](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER/blob/main/SECURITY.md).
 
 ---
 ## Características Principales
