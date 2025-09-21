@@ -7,11 +7,13 @@
 ## Análisis de Seguridad
 
 ### Instalador - Estado Completamente Limpio
-- **Análisis VirusTotal:** [0/72 detecciones](https://www.virustotal.com/gui/file/37150c887470ac88ed5f0a97963aa833e89bc3cadf2e2aa7cc64ac9d41e8c217/detection) ✅
+
+- **Análisis VirusTotal:** [0/72 detecciones](https://www.virustotal.com/gui/file/37150c887470ac88ed5f0a97963aa833e89bc3cadf2e2aa7cc64ac9d41e8c217/detection) 
 - **Estado:** Verificado como completamente seguro
 - **Recomendación:** Versión recomendada para todos los usuarios
 
 ### Versión Portable - Falsos Positivos Identificados
+
 - **Análisis VirusTotal:** [Detecciones limitadas](https://www.virustotal.com/gui/file/90732ac1341c4f997321c8877a236b11ff87f80ab73d93e825aecfa02b487e7f/detection)
 - 
 - **Clasificación errónea:** Trojan:Win32/Vigorf.A
@@ -20,16 +22,20 @@
 ## Evidencias de Falso Positivo
 
 ###  Análisis VirusTotal del Instalador - Estado Limpio
+
 ![Instalador seguro](./captura_segura_instalador.png)
 
 ###  Detección Errónea de la Versión Portable
+
 ![Falso positivo portable](./falso_positivo_portable.png)
 
 ### Detección de Windows Defender - Falso Positivo Confirmado
+
 ![Detección Windows Defender](./deteccion_windows_defender.png)
 
 ---
 ### Reporte Oficial Enviado a Microsoft
+
 ![Reporte a Microsoft](./reporte_seguridad_microsoft.png)
 
 ## Verificación Técnica Adicional
