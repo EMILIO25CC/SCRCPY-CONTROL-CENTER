@@ -119,10 +119,10 @@ Microsoft Security Intelligence ha respondido oficialmente al reporte enviado, c
 
 #### Lo que significa esta respuesta:
 
-1. ** Confirmación oficial:** Microsoft reconoce que la detección era incorrecta
-2. ** Sin indicadores maliciosos:** No existen patrones de telemetría sospechosos
-3. ** Caso cerrado:** No se requieren acciones adicionales del desarrollador
-4. ** Archivo seguro:** El software está completamente validado para su uso
+1.  Confirmación oficial: Microsoft reconoce que la detección era incorrecta
+2.  Sin indicadores maliciosos: No existen patrones de telemetría sospechosos
+3.  Caso cerrado: No se requieren acciones adicionales del desarrollador
+4.  Archivo seguro: El software está completamente validado para su uso
 
 #### Beneficios para los usuarios:
 
