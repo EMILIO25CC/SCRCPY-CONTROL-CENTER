@@ -4,12 +4,12 @@
 
 Una interfaz gráfica moderna que integra funciones automatizadas para controlar dispositivos Android desde tu PC sin necesidad de usar la línea de comandos. Soporta conexiones mediante USB y Wi-Fi con detección automática de dispositivos.
 
-### 🔒 Seguridad y Confianza
+### Seguridad y Confianza
 
 Este proyecto ha sido desarrollado bajo principios de ética profesional y seguridad. **Microsoft Security Intelligence confirmó oficialmente que las detecciones previas eran falsos positivos** (Caso resuelto: 21361229-51d6-461a-98c6-b88b67c474a3).
 
-**✅ Estado actual:** Software oficialmente validado como seguro por Microsoft  
-**🛡️ Recomendación:** Uso sin restricciones para ambas versiones
+** Estado actual:** Software oficialmente validado como seguro por Microsoft  
+** Recomendación:** Uso sin restricciones para ambas versiones
 
 Para evidencias completas y detalles técnicos, revisa [**SEGURIDAD**](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER/blob/main/SECURITY.md).
 
