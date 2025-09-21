@@ -12,16 +12,17 @@
 - **Recomendación:** Versión recomendada para todos los usuarios
 
 ### Versión Portable - Falsos Positivos Identificados
-- **Análisis VirusTotal:** [Detecciones limitadas](https://www.virustotal.com/gui/file/90732ac1341c4f997321c8877a236b11ff87f80ab73d93e825aecfa02b487e7f/detection) ⚠️
+- **Análisis VirusTotal:** [Detecciones limitadas](https://www.virustotal.com/gui/file/90732ac1341c4f997321c8877a236b11ff87f80ab73d93e825aecfa02b487e7f/detection)
+- 
 - **Clasificación errónea:** Trojan:Win32/Vigorf.A
 - **Estado:** Falso positivo confirmado
 
 ## Evidencias de Falso Positivo
 
-### ✅ Análisis VirusTotal del Instalador - Estado Limpio
+###  Análisis VirusTotal del Instalador - Estado Limpio
 ![Instalador seguro](./captura_segura_instalador.png)
 
-### ⚠️ Detección Errónea de la Versión Portable
+###  Detección Errónea de la Versión Portable
 ![Falso positivo portable](./falso_positivo_portable.png)
 
 ### Detección de Windows Defender - Falso Positivo Confirmado
@@ -35,7 +36,7 @@
 
 ### Análisis del Archivo Supuestamente Infectado
 - **Archivo reportado:** `C:\WINDOWS\system32\Drivers\WinRing0x64.sys`
-- **Estado real:** No encontrado en el sistema ✅
+- **Estado real:** No encontrado en el sistema 
 - **Conclusión:** Detección basada en falsos patrones, no en malware real
 - **Fecha de verificación:** 6/09/2025
 
@@ -56,7 +57,7 @@ WinRing0x64.sys es un driver legítimo utilizado por múltiples aplicaciones par
 - **Herramientas legítimas:** Uso exclusivo de herramientas oficiales de desarrollo.
 - **Pruebas exhaustivas:** Testeo en múltiples sistemas antes del lanzamiento.
 
-## 🛡️ Medidas de Mitigación
+##  Medidas de Mitigación
 
 ### Para Usuarios
 1. **Versión recomendada:** Utilizar el instalador que está completamente verificado.
@@ -69,13 +70,13 @@ WinRing0x64.sys es un driver legítimo utilizado por múltiples aplicaciones par
 
 ---
 
-## 🎉 ACTUALIZACIÓN OFICIAL - Microsoft Confirma Falso Positivo Resuelto
+##  ACTUALIZACIÓN OFICIAL - Microsoft Confirma Falso Positivo Resuelto
 
-### ✅ Microsoft Valida Oficialmente la Seguridad del Archivo
+###  Microsoft Valida Oficialmente la Seguridad del Archivo
 
-#### 🏆 **Respuesta Positiva de Microsoft Security Intelligence**
+####  **Respuesta Positiva de Microsoft Security Intelligence**
 
-**Estatus:** ✅ **CASO RESUELTO - FALSO POSITIVO CONFIRMADO**
+**Estatus:**  **CASO RESUELTO - FALSO POSITIVO CONFIRMADO**
 
 ![Respuesta Positiva de Microsoft](./respuesta_positiva_microsoft.png)
 
@@ -83,7 +84,7 @@ Microsoft Security Intelligence ha respondido oficialmente al reporte enviado, c
 
 **Detalles del caso:**
 - **ID de envío:** 21361229-51d6-461a-98c6-b88b67c474a3
-- **Estado:** Completado ✅
+- **Estado:** Completado 
 - **Fecha de presentación:** 6 de septiembre de 2025, 18:54:18 horas
 - **Opinión del usuario:** Detección incorrecta
 - **Resultado oficial:** **Detección incorrecta confirmada**
@@ -93,7 +94,7 @@ Microsoft Security Intelligence ha respondido oficialmente al reporte enviado, c
 
 ---
 
-#### 🛡️ **Análisis Final - Estado Completamente Limpio**
+####  **Análisis Final - Estado Completamente Limpio**
 
 ![Microsoft Valida Archivo Portable](./microsoft_valido_portable.png)
 
@@ -101,14 +102,14 @@ Microsoft Security Intelligence ha respondido oficialmente al reporte enviado, c
 
 | Componente | Estado de Protección | Detección | Versión de Definición |
 |------------|---------------------|-----------|----------------------|
-| **Nube** | ✅ Protegido | No se detectó malware | En línea |
-| **Cliente** | ✅ Protegido | No se detectó malware | 1.435.624.0 |
+| **Nube** |  Protegido | No se detectó malware | En línea |
+| **Cliente** |  Protegido | No se detectó malware | 1.435.624.0 |
 
-**Determinación final:** ⏳ **Pendiente → ✅ LIMPIO CONFIRMADO**
+**Determinación final:**  **Pendiente →  LIMPIO CONFIRMADO**
 
 ---
 
-### 📋 Resumen de la Resolución
+###  Resumen de la Resolución
 
 #### Lo que significa esta respuesta:
 
